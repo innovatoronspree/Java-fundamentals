@@ -9,3 +9,7 @@ Introduction to Multi-dimensional Arrays
 Arithmetic Operators,
 Assignment Operator,
 Bitwise Operators
+
+# Java-fundamentals Document 3 : Control Statements
+If and else-if,
+Switch-Case
