@@ -14,7 +14,7 @@ Bitwise Operators
 If and else-if,
 Switch-Case
 
-# Java-fundamentals Document 1 : Iteration Statements
+# Java-fundamentals Document 4 : Iteration Statements
 while,
 do while,
 for,
