@@ -13,3 +13,10 @@ Bitwise Operators
 # Java-fundamentals Document 3 : Control Statements
 If and else-if,
 Switch-Case
+
+# Java-fundamentals Document 1 : Iteration Statements
+while,
+do while,
+for,
+for-each,
+iteration over multi-dimnesional arrays
