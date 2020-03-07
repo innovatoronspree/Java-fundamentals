@@ -20,3 +20,9 @@ do while,
 for,
 for-each,
 iteration over multi-dimnesional arrays
+
+# Java-fundamentals Document 5 : Jump Statements
+break,
+using break as a form of goto
+labelled break
+continue
