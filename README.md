@@ -26,3 +26,10 @@ break,
 using break as a form of goto
 labelled break
 continue
+
+# Java-fundamentals Document 6 : Introduction to classes
+general form of a class
+decalring objects 
+introducing methods
+returning a value
+adding a method with parameters
