@@ -33,3 +33,11 @@ decalring objects,
 introducing methods,
 returning a value,
 adding a method with parameters
+
+# Java-fundamentals Document 7 : Constructors
+construcrtors,
+parameterized constructors,
+this keyword,
+instance variable hiding,
+garbage collection
+
